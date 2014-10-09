@@ -1,0 +1,15 @@
+@CHARSET "US-ASCII";
+div.n2{
+ position:absolute;
+ left:200px;
+ top:0px;
+ width:500px;
+ height:300px;
+}
+#myframe{
+ width:800px;
+ height:600px;
+}
+.vl{
+border-right: 2px solid black;
+}
